@@ -49,3 +49,6 @@ The Bash script provides:
 1. Run the Python script to view server performance stats:
    ```bash
    python server_performance.py
+
+
+This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
