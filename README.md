@@ -2,6 +2,7 @@
 
 This project includes two scripts for monitoring basic server performance stats on a Linux server:
 
+<<<<<<< HEAD
 1. **Python Script** (`server_performance.py`): Provides server stats using Python's `psutil` library.
 2. **Bash Script** (`server-stats.sh`): A lightweight shell script for quick server performance analysis using standard Linux commands.
 
@@ -27,6 +28,9 @@ The Bash script provides:
 - Total disk usage (Free vs Used, including percentage)
 - Top 5 processes by CPU usage
 - Top 5 processes by memory usage
+=======
+- You can view the project repository on GitHub: [Script to Analyze Server Performance](https://github.com/Drbone01/Script-to-Analyze-Server-Performance.git)
+>>>>>>> 40a6bf630ba19944c9f48abcb9aa4ebbb32f2c8d
 
 ## Requirements
 
