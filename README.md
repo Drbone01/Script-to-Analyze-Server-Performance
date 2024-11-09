@@ -21,8 +21,6 @@ python server_performance.py
     ```bash
     git commit -m "Initial commit: Add server performance script and README"
     git branch -M main
-    git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+    git remote add origin https://github.com/Drbone01/Script-to-Analyze-Server-Performance.git
     git push -u origin main
     ```
-
-Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with your actual GitHub username and repository name.
