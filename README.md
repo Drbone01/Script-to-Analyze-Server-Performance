@@ -2,7 +2,7 @@
 
 This project provides a basic script to monitor server performance, including CPU, memory, disk, and network stats.
 
-- Project Link: https://github.com/Drbone01/Script-to-Analyze-Server-Performance
+- You can view the project repository on GitHub: [Script to Analyze Server Performance](https://github.com/Drbone01/Script-to-Analyze-Server-Performance.git)
 
 ## Requirements
 
